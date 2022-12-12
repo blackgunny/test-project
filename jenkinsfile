@@ -1,0 +1,1 @@
+slackSend (color: '#FF0000', message: "GIT COMMIT :'${COMMIT_MESSAGE} [${GIT_URL}]' (${GIT_BRANCH}) (${GIT_COMMIT})")
